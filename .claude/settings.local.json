@@ -6,7 +6,13 @@
       "Bash(npx next build:*)",
       "Bash(npm run build:*)",
       "Bash(find:*)",
-      "Bash(wc:*)"
+      "Bash(wc:*)",
+      "Bash(semgrep --pro:*)",
+      "Bash(semgrep install-semgrep-pro:*)",
+      "Bash(semgrep login:*)",
+      "Bash(semgrep --version:*)",
+      "Bash(semgrep scan:*)",
+      "Bash(python3:*)"
     ]
   }
 }
